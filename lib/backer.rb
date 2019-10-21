@@ -7,6 +7,6 @@ class Backer
   
   def backed_project(project)
     @backed_projects << project
-    project.b
+    project.Backer 
 end
 end
